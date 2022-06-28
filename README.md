@@ -10,7 +10,7 @@
 The proyects in this repository was building in Yii2 (PHP), Simphony (PHP), AngularJs (javascript), Reactjs (javascript). Also i use Mysql as data base, and for the style in the front i like to work with Bootstrap.
 </p>
 <p>
-<p>I always work with Docker, so my proyects is prepare for working with this tecnology (use docker-compose)</p>
+<p>I always work with Docker, so my proyects is prepare for working with this tecnology (using docker-compose)</p>
 
 <p>I apoligy for the poor documentation, i'll do better i'm promise! </p>
   
